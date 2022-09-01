@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guilhrib
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning Vue3 with Vite and Pinia
+- 🌱 I’m currently learning Go
 
 <!---
 Guilhrib/Guilhrib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
