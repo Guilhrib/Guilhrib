@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Guilhrib
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in web development and software architecture 
 
 <!---
 Guilhrib/Guilhrib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
