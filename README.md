@@ -1,4 +1,5 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/dev_pkg)
+![Static Badge](https://img.shields.io/badge/software-architect)
+ ![Twitter Follow](https://img.shields.io/twitter/follow/dev_pkg)
 
 - 👋 Hi, I’m @Guilhrib
 - 👀 I’m interested in web development and software architecture 
