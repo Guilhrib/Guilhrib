@@ -1,5 +1,9 @@
 ![Static Badge](https://img.shields.io/badge/software%20architect-blue)
- ![Twitter Follow](https://img.shields.io/twitter/follow/dev_pkg)
+ ![Twitter Follow](https://img.shields.io/twitter/follow/dev_pkg) ![Static Badge](https://img.shields.io/badge/Java-orange) ![Static Badge](https://img.shields.io/badge/Springboot-green) ![Static Badge](https://img.shields.io/badge/Golang-blue) ![Static Badge](https://img.shields.io/badge/Vuejs-green)
+
+
+
+
 
 - 👋 Hi, I’m @Guilhrib
 - 👀 I’m interested in web development and software architecture 
