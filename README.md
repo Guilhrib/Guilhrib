@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/software architect)
+![Static Badge](https://img.shields.io/badge/software_architect)
  ![Twitter Follow](https://img.shields.io/twitter/follow/dev_pkg)
 
 - 👋 Hi, I’m @Guilhrib
