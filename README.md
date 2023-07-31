@@ -3,8 +3,8 @@
 ![Static Badge](https://img.shields.io/badge/Software%20Architect-blue)
  ![Twitter Follow](https://img.shields.io/twitter/follow/dev_pkg) ![Static Badge](https://img.shields.io/badge/Java-orange) ![Static Badge](https://img.shields.io/badge/Springboot-green) ![Static Badge](https://img.shields.io/badge/Golang-blue) ![Static Badge](https://img.shields.io/badge/Nodejs-green) ![Static Badge](https://img.shields.io/badge/Javascript-yellow) ![Static Badge](https://img.shields.io/badge/Vuejs-green)
 
-- 👋 Hi, I’m @Guilhrib
-- 👀 I’m interested in web development and software architecture 
+- 👋 Hi, I'm Guilherme aka Ribeiro. I'm a software architect and content creator
+- 👀 Follow me on other social media platforms, It would be a pleasure to connect with you.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2040%20mins-blue)
@@ -81,13 +81,5 @@ Go                       2 repos             ██░░░░░░░░░�
 JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Guilhrib/Guilhrib/main/assets/bar_graph.png)
-
-
  Last Updated on 30/07/2023 18:34:19 UTC
 <!--END_SECTION:waka-->
