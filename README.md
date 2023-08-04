@@ -82,12 +82,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Guilhrib/Guilhrib/main/assets/bar_graph.png)
-
-
  Last Updated on 03/08/2023 18:34:18 UTC
 <!--END_SECTION:waka-->
