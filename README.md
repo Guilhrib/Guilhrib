@@ -83,5 +83,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guilhrib/Guilhrib/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2023 18:38:29 UTC
+ Last Updated on 07/11/2023 18:37:33 UTC
 <!--END_SECTION:waka-->
