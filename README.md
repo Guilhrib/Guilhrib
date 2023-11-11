@@ -7,15 +7,13 @@
 - 👀 Follow me on other social media platforms, It would be a pleasure to connect with you.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 24.8 kB Used in GitHub's Storage 
- > 
-> 🏆 214 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -50,20 +48,20 @@ Sunday                   35 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 20 mins       ████████████████░░░░░░░░░   62.24 % 
-Java                     2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.71 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Vue.js                   3 hrs 50 mins       █████████████░░░░░░░░░░░░   52.97 % 
+Java                     3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.43 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 36 mins       ████████████████░░░░░░░░░   65.29 % 
-IntelliJ                 2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.71 % 
+VS Code                  4 hrs 6 mins        ██████████████░░░░░░░░░░░   56.57 % 
+IntelliJ                 3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.43 % 
 
 🐱‍💻 Projects: 
-hub-frontend             5 hrs 36 mins       ████████████████░░░░░░░░░   65.29 % 
-hub-backlegado           2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.71 % 
+hub-frontend             4 hrs 6 mins        ██████████████░░░░░░░░░░░   56.57 % 
+hub-backlegado           3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.43 % 
 
 💻 Operating System: 
-Windows                  8 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,5 +81,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guilhrib/Guilhrib/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2023 18:38:01 UTC
+ Last Updated on 11/11/2023 18:36:51 UTC
 <!--END_SECTION:waka-->
