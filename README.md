@@ -7,7 +7,7 @@
 - 👀 Follow me on other social media platforms, It would be a pleasure to connect with you.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -84,5 +84,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guilhrib/Guilhrib/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2023 18:37:24 UTC
+ Last Updated on 25/11/2023 18:36:53 UTC
 <!--END_SECTION:waka-->
