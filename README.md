@@ -75,13 +75,4 @@ Java                     2 repos             ██░░░░░░░░░�
 Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Guilhrib/Guilhrib/main/assets/bar_graph.png)
-
-
- Last Updated on 28/11/2023 18:39:10 UTC
 <!--END_SECTION:waka-->
